@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title> MY PAGE</title>
+   </head>
+<body>
+	<form>
+		<input type="submit" name="clicks" value="Click">
+	</form>
+	<p>aman</p>
+</body>
+</html>
